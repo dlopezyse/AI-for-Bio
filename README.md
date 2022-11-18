@@ -1,4 +1,4 @@
-# Bio Zone
-The place for a free and collaborative self-taught education in Machine Learning for Bio :dna:
+# Bio Zone 🤖🧬
+### The place for a free and collaborative self-taught education in Machine Learning for Bio
 
-https://github.com/ossu/computer-science
+
