@@ -2,8 +2,8 @@
 
 <h3 align="center">The place for a free and collaborative education in Machine Learning for Bio</h3>
 </HTML>
-
-
+ 
+ 
 This site is designed to produce and disseminate resources for Machine Learning applied to Biotech. We manage:
 - notebooks in Python 🐍
 - educational resources 📚 🎞️
