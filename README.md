@@ -6,10 +6,12 @@
 </HTML>
 
 This site is designed to produce and disseminate resources for Machine Learning applied to Biotech. We manage:
-- notebooks in **Python** 🐍 and **R**
+- notebooks in **Python** and **R**
 - educational resources 📚 🎞️
 
-Want to collaborate? Please connect with us and become part of the community 😄
+
+Find this site useful? Provide your :star:  
+Want to collaborate? Connect with us and become part of the community 😄
 
 ## Team
 - [Diego López Yse](https://github.com/dlopezyse)
