@@ -11,7 +11,7 @@ This site is designed to produce and disseminate resources for Machine Learning 
 - [datasets](datasets)
 
 
-Find this site useful? Provide your :star:  
+Find this site useful? :star: us!  
 Want to collaborate? Connect with us and become part of the community 😄
 
 ## Team
