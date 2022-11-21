@@ -15,5 +15,6 @@
 
 ### Machine Learning
 
+- [**MIT:** 6.S191 - Deep Learning](https://www.youtube.com/watch?v=7sB052Pz0sQ)
 - [**DeepLearning.AI:** Deep Learning](https://www.coursera.org/specializations/deep-learning#courses)
 - [**Stanford:** CS224W - Machine Learning with Graphs](https://www.youtube.com/watch?v=JAB_plj2rbA)
