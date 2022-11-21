@@ -1,17 +1,17 @@
 ## The best books according to our community ⭐
 
-### Biology 🧪
+### 🧪 Biology
 
 - [**Molecular Biology of the Cell (2002):** Bruce Alberts, Alexander Johnson, Julian Lewis, Martin Raff, Keith Roberts, and Peter Walter](https://www.ncbi.nlm.nih.gov/books/NBK21054/)
 
-### Bioinformatics 💻
+### 💻 Bioinformatics
 
 - [**Mastering Python for Bioinformatics - How to Write Flexible, Documented, Tested Python Code for Research Computing (2021):** Ken Youens-Clark](https://www.amazon.com/Mastering-Python-Bioinformatics-Documented-Computing/dp/1098100883)
 - [**Bioinformatics with Python Cookbook (2018):** Tiago Antao](https://www.amazon.com/Bioinformatics-Python-Cookbook-bioinformatics-computational/dp/1789344697)
 - [**Algorithms in Bioinformatics - Theory and Implementation (2021):** Paul A. Gagniuc](https://www.amazon.com/Algorithms-Bioinformatics-Implementation-Paul-Gagniuc/dp/1119697964)
 - [**Python Programming for Biology - Bioinformatics and Beyond (2015):** Tim J. Stevens, Wayne Boucher](https://www.amazon.com/Python-Programming-Biology-Bioinformatics-Beyond/dp/0521720095)
 
-### Machine Learning 🤖
+### 🤖 Machine Learning
 
 - [**Introduction to Data Mining (2018):** Pang-Ning Tan, Michael Steinbach, Vipin Kumar](https://www.amazon.com/Introduction-Mining-Whats-Computer-Science/dp/0133128903/ref=sr_1_3?crid=30GRI1LNUJ6L4&keywords=machine+learning+tan&qid=1669072342&s=books&sprefix=machine+learning+tahn%2Cstripbooks%2C261&sr=1-3)
 - [**The Elements of Statistical Learning: Data Mining, Inference, and Prediction (2016):** Trevor Hastie, Robert Tibshirani, Jerome Friedman](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=pd_bxgy_img_sccl_1/144-6445908-4330344?pd_rd_w=hC8ZA&content-id=amzn1.sym.7f0cf323-50c6-49e3-b3f9-63546bb79c92&pf_rd_p=7f0cf323-50c6-49e3-b3f9-63546bb79c92&pf_rd_r=94TPK942EWZSJBTBH6FZ&pd_rd_wg=hHB7O&pd_rd_r=2e2997cd-c510-436f-afa9-bdf84fadab76&pd_rd_i=0387848576&psc=1)
