@@ -1,4 +1,4 @@
-## Find below the best online courses according to our community ⭐
+## The best online courses according to our community ⭐
 
 ### Biology
 
