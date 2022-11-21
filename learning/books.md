@@ -1,4 +1,4 @@
-## Find below the best books according to our community ⭐
+## The best books according to our community ⭐
 
 ### Biology
 
