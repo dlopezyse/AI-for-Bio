@@ -15,4 +15,5 @@
 
 ### Machine Learning
 
+- [**DeepLearning.AI:** Deep Learning](https://www.coursera.org/specializations/deep-learning#courses)
 - [**Stanford:** CS224W - Machine Learning with Graphs](https://www.youtube.com/watch?v=JAB_plj2rbA)
