@@ -7,11 +7,13 @@
 - [**Khan Academy:** AP Biology](https://www.khanacademy.org/science/ap-biology)
 - [**Université de Genève:** Chemical Biology](https://www.coursera.org/learn/chemical-biology#syllabus)
 - [**Icahn School of Medicine at Mount Sinai:** Introduction to Systems Biology](https://www.coursera.org/learn/systems-biology)
+- [Introduction to Genomics for Engineers](https://learngenomics.dev/)
 
 ### 💻 Bioinformatics
 
 - [**UC San Diego:** Bioinformatics](https://www.coursera.org/specializations/bioinformatics)
 - [**Peking University:** Bioinformatics - Introduction and Methods](https://www.coursera.org/learn/bioinformatics-pku?courseSlug=bioinformatics-pku&showOnboardingModal=check)
+- [Computational Genomics with R](https://compgenomr.github.io/book/)
 
 ### 🤖 Machine Learning
 
