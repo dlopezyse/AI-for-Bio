@@ -7,7 +7,7 @@
 
 This site is designed to produce and disseminate resources for Machine Learning applied to Biotech. We manage:
 - [notebooks](notebooks) in **Python** and **R**
-- [educational resources 📚 🎞️](learning)
+- [educational 📚 🎞️](learning)
 - [datasets](datasets)
 
 
