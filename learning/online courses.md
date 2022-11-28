@@ -14,9 +14,11 @@
 - [**UC San Diego:** Bioinformatics](https://www.coursera.org/specializations/bioinformatics)
 - [**Peking University:** Bioinformatics - Introduction and Methods](https://www.coursera.org/learn/bioinformatics-pku?courseSlug=bioinformatics-pku&showOnboardingModal=check)
 - [Computational Genomics with R](https://compgenomr.github.io/book/)
+- [**DeepLearning.AI:** AI for Medicine](https://www.coursera.org/specializations/ai-for-medicine)
 
 ### 🤖 Machine Learning
 
 - [**MIT:** 6.S191 - Deep Learning](https://www.youtube.com/watch?v=7sB052Pz0sQ)
 - [**DeepLearning.AI:** Deep Learning](https://www.coursera.org/specializations/deep-learning#courses)
 - [**Stanford:** CS224W - Machine Learning with Graphs](https://www.youtube.com/watch?v=JAB_plj2rbA)
+- [**NYU:** Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)
