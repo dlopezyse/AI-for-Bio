@@ -16,7 +16,5 @@ Want to collaborate? Connect with us and become part of the community 😄
 
 *"As Math is a descriptive language for Physics, Artificial Intelligence is the language for Biology"* (Demis Hassabis, CEO of DeepMind)
 
-## Team
-- [Diego López Yse](https://github.com/dlopezyse)
    
 
