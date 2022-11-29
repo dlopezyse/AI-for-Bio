@@ -15,6 +15,7 @@
 - [**Peking University:** Bioinformatics - Introduction and Methods](https://www.coursera.org/learn/bioinformatics-pku?courseSlug=bioinformatics-pku&showOnboardingModal=check)
 - [Computational Genomics with R](https://compgenomr.github.io/book/)
 - [**DeepLearning.AI:** AI for Medicine](https://www.coursera.org/specializations/ai-for-medicine)
+- [Bioinformatics Workbook](https://bioinformaticsworkbook.org/#gsc.tab=0)
 
 ### 🤖 Machine Learning
 
