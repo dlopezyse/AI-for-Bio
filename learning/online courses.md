@@ -16,7 +16,6 @@
 - [Computational Genomics with R](https://compgenomr.github.io/book/)
 - [**DeepLearning.AI:** AI for Medicine](https://www.coursera.org/specializations/ai-for-medicine)
 - [Bioinformatics Workbook](https://bioinformaticsworkbook.org/#gsc.tab=0)
-- [Illustrating Python via Examples from Bioinformatics](http://hplgit.github.io/bioinf-py/doc/pub/html/index.html)
 
 ### 🤖 Machine Learning
 
