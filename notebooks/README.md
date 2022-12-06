@@ -5,8 +5,10 @@
 | Description  | Author |
 | :--- | :--- |
 | [Illustrating Python via Examples from Bioinformatics](http://hplgit.github.io/bioinf-py/doc/pub/html/index.html) | [Norwegian Centre of Excellence](http://cbc.simula.no/pub/) |
+| [CST Lung Cancer Viz](https://github.com/MaayanLab/CST_Lung_Cancer_Viz/tree/master/) | [Ma'ayan Lab](https://labs.icahn.mssm.edu/maayanlab/)
+| [DeepChem Tutorial](https://github.com/deepchem/deepchem/tree/master/examples/tutorials) | [DeepChem](https://github.com/deepchem)
 | [Biomolecular Analysis with Python](Molecular%20Analysis%20with%20Python.ipynb)  | [Diego Lopez Yse](https://github.com/dlopezyse) |
 | [BioPython Notebooks](https://github.com/vkh16/python_course/tree/ac4bbead049201b8533d5c012ef3809b8281c320/13_Biopython/biopython-notebook/notebooks) | [Martin Skarzynski](https://github.com/marskar)
-
+| [An Introduction to Applied Bioinformatics](http://readiab.org/introduction.html) | J Gregory Caporaso
 
 
