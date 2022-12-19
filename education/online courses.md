@@ -15,11 +15,15 @@
 
 ### 💻 Bioinformatics
 
-- [**UC San Diego:** Bioinformatics](https://www.coursera.org/specializations/bioinformatics)
+- [**UC San Diego:** Bioinformatics Specialization](https://www.coursera.org/specializations/bioinformatics)
 - [**Peking University:** Bioinformatics - Introduction and Methods](https://www.coursera.org/learn/bioinformatics-pku?courseSlug=bioinformatics-pku&showOnboardingModal=check)
 - [Computational Genomics with R](https://compgenomr.github.io/book/)
 - [**DeepLearning.AI:** AI for Medicine](https://www.coursera.org/specializations/ai-for-medicine)
 - [Bioinformatics Workbook](https://bioinformaticsworkbook.org/#gsc.tab=0)
+- [**UC San Diego:** Introduction to Genomic Data Science](https://www.edx.org/course/introduction-to-genomic-data-science)
+- [**Georgetown University:** Demystifying Biomedical Big Data: A User’s Guide](https://www.edx.org/es/course/demystifying-biomedical-big-data-a-users-guide)
+- [**Johns Hopkins University:** Genomic Data Science Specialization](https://www.coursera.org/specializations/genomic-data-science#courses)
+- [**Johns Hopkins University:** Algorithms for DNA Sequencing](https://www.coursera.org/learn/dna-sequencing)
 
 ### 🤖 Machine Learning
 
