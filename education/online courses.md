@@ -5,9 +5,13 @@
 - [**MITx:** Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-to-biology-the-secret-of-life-3)
 - [**EMBL-EBI:** On-demand training](https://www.ebi.ac.uk/training/on-demand?facets=&page=1)
 - [**Khan Academy:** AP Biology](https://www.khanacademy.org/science/ap-biology)
+- [**HarvardX:** Principles of Biochemistry](https://www.edx.org/course/principles-of-biochemistry)
 - [**Université de Genève:** Chemical Biology](https://www.coursera.org/learn/chemical-biology#syllabus)
 - [**Icahn School of Medicine at Mount Sinai:** Introduction to Systems Biology](https://www.coursera.org/learn/systems-biology)
 - [Introduction to Genomics for Engineers](https://learngenomics.dev/)
+- [**Rice University:** DNA - Biology’s Genetic Code](https://www.edx.org/course/dna-biologys-genetic-code)
+- [**23andME:** Introduction to Genetics for Beginners](https://www.udacity.com/course/tales-from-the-genome--bio110)
+- [**Johns Hopkins University:** Introduction to the Biology of Cancer](https://es.coursera.org/learn/cancer)
 
 ### 💻 Bioinformatics
 
