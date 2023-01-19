@@ -34,3 +34,5 @@
 - [**DeepLearning.AI:** Deep Learning](https://www.coursera.org/specializations/deep-learning#courses)
 - [**Stanford:** CS224W - Machine Learning with Graphs](https://www.youtube.com/watch?v=JAB_plj2rbA)
 - [**NYU:** Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)
+- [**University of Michigan:** Deep Learning for Computer Vision](http://leccap.engin.umich.edu/leccap/site/jhygcph151x25gjj1f0)
+- [**Dynamic Vision and Learning Group:** Computer Vision: Detection, Segmentation and Tracking](https://www.youtube.com/playlist?list=PLog3nOPCjKBneGyffEktlXXMfv1OtKmCs)
