@@ -36,3 +36,4 @@
 - [**NYU:** Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)
 - [**University of Michigan:** Deep Learning for Computer Vision](http://leccap.engin.umich.edu/leccap/site/jhygcph151x25gjj1f0)
 - [**Dynamic Vision and Learning Group:** Computer Vision: Detection, Segmentation and Tracking](https://www.youtube.com/playlist?list=PLog3nOPCjKBneGyffEktlXXMfv1OtKmCs)
+- [**Universität Tübingen:** Computer Vision](https://www.youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_)
