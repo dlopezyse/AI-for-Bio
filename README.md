@@ -1,6 +1,6 @@
 <HTML><h1 align="center">:robot: AI for Bio 🧬</h1> 
 
-<h3 align="center">The place for a free and collaborative exchange in Machine Learning for Bio</h3>
+<h3 align="center">A free and collaborative exchange in Machine Learning for Bio</h3>
 <br>
 <br> 
 </HTML>
