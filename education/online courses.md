@@ -32,6 +32,7 @@
 
 - [**MIT:** 6.S191 - Deep Learning](https://www.youtube.com/watch?v=7sB052Pz0sQ)
 - [**DeepLearning.AI:** Deep Learning](https://www.coursera.org/specializations/deep-learning#courses)
+- [**Cornell University:** Applied Machine Learning](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
 - [**Stanford:** CS224W - Machine Learning with Graphs](https://www.youtube.com/watch?v=JAB_plj2rbA)
 - [**NYU:** Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/)
 - [**University of Michigan:** Deep Learning for Computer Vision](http://leccap.engin.umich.edu/leccap/site/jhygcph151x25gjj1f0)
