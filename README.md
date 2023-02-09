@@ -6,7 +6,8 @@
 </HTML>
 
 This site is designed to produce and disseminate resources for Machine Learning applied to Biotech. You can find:
-- [learning](learning) 📚 🎞️
+- [online courses](online courses) 🎞️
+- [books](books) 📚
 - [notebooks](notebooks) in **Python** :snake:
 - [datasets](datasets)
 - bio terms - under development
