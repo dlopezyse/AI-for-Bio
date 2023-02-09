@@ -5,7 +5,7 @@
 <br> 
 </HTML>
 
-This site is designed to produce and disseminate resources for Machine Learning applied to Biotech. We manage:
+This site is designed to produce and disseminate resources for Machine Learning applied to Biotech. You can find:
 - [education](education) 📚 🎞️
 - [notebooks](notebooks) in **Python** :snake:
 - [datasets](datasets)
