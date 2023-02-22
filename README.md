@@ -1,6 +1,6 @@
 <HTML><h1 align="center">:robot: AI for Bio 🧬</h1> 
 
-<h3 align="center">A free and collaborative space for Machine Learning for Bio</h3>
+<h3 align="center">A free and collaborative space for Machine Learning applied to Biology</h3>
 <br>
 <br> 
 </HTML>
@@ -10,7 +10,8 @@ This site is designed to produce and disseminate resources for Machine Learning 
 - [books](books) 📚
 - [notebooks](notebooks) in **Python** :snake:
 - [datasets](datasets)
-- bio terms - under development
+- articles - under development
+- glossary - under development
 
 
 Find this site useful? :star: it!  
