@@ -28,6 +28,7 @@
 
 ### 🤖 Machine Learning
 
+- [**Columbia University:** Machine Learning](https://www.edx.org/course/machine-learning)
 - [**MIT:** 6.S191 - Deep Learning](https://www.youtube.com/watch?v=7sB052Pz0sQ)
 - [**DeepLearning.AI:** Deep Learning](https://www.coursera.org/specializations/deep-learning#courses)
 - [**Cornell University:** Applied Machine Learning](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
