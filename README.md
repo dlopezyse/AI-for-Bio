@@ -10,8 +10,8 @@ This site is designed to produce and disseminate resources for Machine Learning 
 - [books](books) 📚
 - [notebooks](notebooks) in **Python** :snake:
 - [datasets](datasets)
+- [articles](articles) - under development
 - [glossary](glossary) - under development
-- articles - to be developed
 
 
 Find this site useful? :star: it!  
