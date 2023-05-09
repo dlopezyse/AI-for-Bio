@@ -1,6 +1,8 @@
 ### 🧪 Biology
 
 - [**MITx:** Introduction to Biology - The Secret of Life](https://www.edx.org/course/introduction-to-biology-the-secret-of-life-3)
+- [**MIT:** Getting up to Speed in Biology](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+Pre-7.01+1T2020/course/)
+- [**MIT:** Introductory Biology](https://ocw.mit.edu/courses/7-016-introductory-biology-fall-2018/video_galleries/lecture-videos/)
 - [**EMBL-EBI:** On-demand training](https://www.ebi.ac.uk/training/on-demand?facets=&page=1)
 - [**Khan Academy:** AP Biology](https://www.khanacademy.org/science/ap-biology)
 - [**HarvardX:** Principles of Biochemistry](https://www.edx.org/course/principles-of-biochemistry)
