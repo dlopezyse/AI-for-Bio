@@ -27,6 +27,7 @@
 - [**Johns Hopkins University:** Algorithms for DNA Sequencing](https://www.coursera.org/learn/dna-sequencing)
 - [**MIT OpenCourseWare:** Machine Learning for Healthcare](https://www.youtube.com/playlist?list=PLUl4u3cNGP60B0PQXVQyGNdCyCTDU1Q5j)
 - [**IPAM:** Deep Learning and Medical Applications](https://www.ipam.ucla.edu/programs/workshops/deep-learning-and-medical-applications/?tab=schedule)
+- [Rosalind](https://rosalind.info/problems/locations/)
 
 ### 🤖 Machine Learning
 
