@@ -6,6 +6,8 @@
 
 **- Compounds:** are small molecules generated and studied as part of drug discovery , with an accompanying chemical structure representation.
 
+**- Drug Discovery:**  is the process of identifying and developing new medications or drugs to treat or prevent diseases. It involves a series of steps that begin with the identification of a target, which is a specific molecule or biological pathway associated with a disease. The target could be a protein, an enzyme, a receptor, or any other molecular component involved in the disease process.
+
 **- Genes:** are functional units of DNA, encoding RNA, and ultimately proteins. Variants of a gene’s DNA sequence may be associated with disease(s).
 
 **- In Vitro:** refers to studies and experiments taking place outside the body, either in cells or in cell-free, highly defined systems.
