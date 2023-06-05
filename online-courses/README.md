@@ -33,6 +33,7 @@
 
 - [**Columbia University:** Machine Learning](https://www.edx.org/course/machine-learning)
 - [**MIT:** 6.S191 - Deep Learning](https://www.youtube.com/watch?v=7sB052Pz0sQ)
+- [**Google:** Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course?hl=es-419&s=03)
 - [**DeepLearning.AI:** Deep Learning](https://www.coursera.org/specializations/deep-learning#courses)
 - [**Cornell University:** Applied Machine Learning](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
 - [**Stanford:** CS224W - Machine Learning with Graphs](https://www.youtube.com/watch?v=JAB_plj2rbA)
