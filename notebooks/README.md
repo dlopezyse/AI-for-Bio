@@ -12,3 +12,4 @@
 | [An Introduction to Applied Bioinformatics](http://readiab.org/introduction.html) | J Gregory Caporaso
 | [Predicting molecule properties based on its SMILES](https://www.kaggle.com/code/rmonge/predicting-molecule-properties-based-on-its-smiles) | André Olivera
 | [RFdiffusion for protein structure generation](https://colab.research.google.com/github/sokrypton/ColabDesign/blob/v1.1.1/rf/examples/diffusion.ipynb#scrollTo=tSgCPxIZ1T_A) | [Joseph Watson](https://github.com/joewatchwell), [Nathaniel Bennett](https://github.com/nrbennet), [David Juergens](https://github.com/davidcjuergens)
+| [Public notebooks hosted on Biology, Chemistry & Machine Learning](https://colab-db.github.io/) | Colab DB
