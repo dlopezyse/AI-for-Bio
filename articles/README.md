@@ -10,3 +10,4 @@
 | [Physical predictions](https://centuryofbio.com/p/physical-predictions) | Elliot Hershberg
 | [Biology is a Burrito](https://www.readcodon.com/p/burrito-biology?s=03) | Niko McCarty
 | [Cells are very fast and crowded places](https://www.righto.com/2011/07/cells-are-very-fast-and-crowded-places.html?m=1&s=03) | Ken Shirriff
+| [Enveda Biosciences: Unlocking Our Planet's Chemistry](https://centuryofbio.com/p/enveda-biosciences) | Elliot Hershberg
