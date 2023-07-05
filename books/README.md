@@ -9,6 +9,7 @@
 - [**Algorithms in Bioinformatics - Theory and Implementation (2021):** Paul A. Gagniuc](https://www.amazon.com/Algorithms-Bioinformatics-Implementation-Paul-Gagniuc/dp/1119697964)
 - [**Python Programming for Biology - Bioinformatics and Beyond (2015):** Tim J. Stevens, Wayne Boucher](https://www.amazon.com/Python-Programming-Biology-Bioinformatics-Beyond/dp/0521720095)
 - [**Applied Bioinformatics (2019):** David A. Hendrix](https://open.oregonstate.education/appliedbioinformatics/)
+- [**Topological Data Analysis for Genomics and Evolution (2019):** Raul Rabadan, Andrew J. Blumberg](https://www.amazon.de/-/en/Raul-Rabadan/dp/1107159547)
 
 ### 🤖 Machine Learning
 
