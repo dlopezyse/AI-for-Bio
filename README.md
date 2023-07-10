@@ -11,7 +11,6 @@ This site is designed to produce and disseminate resources for Machine Learning 
 - [notebooks](notebooks) in **Python** :snake:
 - [datasets](datasets) 📊
 - [articles](articles) 📰
-- [glossary](glossary) - under development
 
 
 Find this site useful? :star: it!  
