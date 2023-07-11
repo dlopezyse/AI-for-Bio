@@ -11,3 +11,4 @@
 | [Biology is a Burrito](https://www.readcodon.com/p/burrito-biology?s=03) | Niko McCarty
 | [Cells are very fast and crowded places](https://www.righto.com/2011/07/cells-are-very-fast-and-crowded-places.html?m=1&s=03) | Ken Shirriff
 | [MS2Mol: a transformer encoder-decoder model for exploring the dark chemical space of nature](https://www.enveda.com/posts/ms2mol-a-transformer-encoder-decoder-model-for-exploring-the-dark-chemical-space-of-nature) | David Healey
+| [Diffusion Models in Generative Chemistry for Drug Design](https://medium.com/@cch57/exploring-the-promise-of-generative-models-in-chemistry-an-introduction-to-diffusion-models-31530e9d1dcb) | Charlie Harris
