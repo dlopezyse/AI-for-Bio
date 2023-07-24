@@ -13,3 +13,4 @@
 | [MS2Mol: a transformer encoder-decoder model for exploring the dark chemical space of nature](https://www.enveda.com/posts/ms2mol-a-transformer-encoder-decoder-model-for-exploring-the-dark-chemical-space-of-nature) | David Healey
 | [Diffusion Models in Generative Chemistry for Drug Design](https://medium.com/@cch57/exploring-the-promise-of-generative-models-in-chemistry-an-introduction-to-diffusion-models-31530e9d1dcb) | Charlie Harris
 | [The Next Frontier For Large Language Models Is Biology](https://www.forbes.com/sites/robtoews/2023/07/16/the-next-frontier-for-large-language-models-is-biology/?sh=3f3c080c6f05&utm_source=substack&utm_medium=email) | Forbes
+| [Spatial biology is lighting it up](https://erictopol.substack.com/p/spatial-biology-is-lighting-it-up) | Eric Topol
