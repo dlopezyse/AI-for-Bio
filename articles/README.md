@@ -15,3 +15,4 @@
 | [The Next Frontier For Large Language Models Is Biology](https://www.forbes.com/sites/robtoews/2023/07/16/the-next-frontier-for-large-language-models-is-biology/?sh=3f3c080c6f05&utm_source=substack&utm_medium=email) | Forbes
 | [Spatial biology is lighting it up](https://erictopol.substack.com/p/spatial-biology-is-lighting-it-up) | Eric Topol
 | [We Need Better Benchmarks for Machine Learning in Drug Discovery](https://practicalcheminformatics.blogspot.com/2023/08/we-need-better-benchmarks-for-machine.html) | Pat Walters
+| [Design, build, work](https://centuryofbio.com/p/design-build-work) | Elliot Hershberg
