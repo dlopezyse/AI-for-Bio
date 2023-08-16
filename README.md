@@ -6,10 +6,10 @@
 </HTML>
 
 This site is designed to produce and disseminate resources for Machine Learning applied to Biotech. You can find:
+- [Databases](databases) 📊
 - [Online courses](online-courses) 🎞️
 - [Books](books) 📚
 - [Notebooks](notebooks) in **Python** :snake:
-- [Databases](databases) 📊
 - [Articles](articles) 📰
 
 
