@@ -9,7 +9,7 @@ This site is designed to produce and disseminate resources for Machine Learning 
 - [Online courses](online-courses) 🎞️
 - [Books](books) 📚
 - [Notebooks](notebooks) in **Python** :snake:
-- [Datasets](datasets) 📊
+- [Databases](databases) 📊
 - [Articles](articles) 📰
 
 
