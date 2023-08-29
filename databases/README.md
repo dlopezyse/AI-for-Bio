@@ -2,6 +2,7 @@
 
 | Name | Description |
 | :--- | :--- |
+| [Catalogue Of Somatic Mutations In Cancer (COSMIC)](https://cancer.sanger.ac.uk/cosmic) | COSMIC, the Catalogue Of Somatic Mutations In Cancer, is the world's largest and most comprehensive resource for exploring the impact of somatic mutations in human cancer.
 | [COCONUT](https://coconut.naturalproducts.net/) | COCONUT and Natural Products Online is an open-source open-data portal for natural products cheminformatics. As a free database, COCONUT can be searched in multiple ways, such as molecule names, molecular structures, and structural properties. COCONUT also provides molecular properties and descriptors for each natural product. Moreover, all the data in COCONUT are available for download and can be queried programmatically via an application programming interface (API). |
 | [EMBL’s European Bioinformatics Institute (EMBL-EBI)](https://www.ebi.ac.uk/services/data-resources-and-tools) | EMBL’s European Bioinformatics Institute maintains the world’s most comprehensive range of freely available and up-to-date molecular data resources. |
 | [Ensembl](http://www.ensembl.org/index.html) | Ensembl is a genome browser for vertebrate genomes that supports research in comparative genomics, evolution, sequence variation and transcriptional regulation. Ensembl annotate genes, computes multiple alignments, predicts regulatory function and collects disease data. Ensembl tools include BLAST, BLAT, BioMart and the Variant Effect Predictor (VEP) for all supported species. |
