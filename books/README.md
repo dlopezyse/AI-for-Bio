@@ -10,7 +10,7 @@
 - [**Bioinformatics with Python Cookbook:** Tiago Antao](https://www.amazon.com/Bioinformatics-Python-Cookbook-bioinformatics-computational/dp/1789344697)
 - [**Algorithms in Bioinformatics - Theory and Implementation:** Paul A. Gagniuc](https://www.amazon.com/Algorithms-Bioinformatics-Implementation-Paul-Gagniuc/dp/1119697964)
 - [**Python Programming for Biology - Bioinformatics and Beyond:** Tim J. Stevens, Wayne Boucher](https://www.amazon.com/Python-Programming-Biology-Bioinformatics-Beyond/dp/0521720095)
-- [**Applied Bioinformatics (2019):** David A. Hendrix](https://open.oregonstate.education/appliedbioinformatics/)
+- [**Applied Bioinformatics:** David A. Hendrix](https://open.oregonstate.education/appliedbioinformatics/)
 - [**Topological Data Analysis for Genomics and Evolution:** Raul Rabadan, Andrew J. Blumberg](https://www.amazon.de/-/en/Raul-Rabadan/dp/1107159547)
 
 ### 🤖 Machine Learning
