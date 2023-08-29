@@ -1,6 +1,6 @@
 ## Articles :newspaper:
 
-| Name | Published by |
+| Name | Written by |
 | :--- | :--- |
 | [Biology is a Burrito](https://www.readcodon.com/p/burrito-biology?s=03) | Niko McCarty
 | [Cells are very fast and crowded places](https://www.righto.com/2011/07/cells-are-very-fast-and-crowded-places.html?m=1&s=03) | Ken Shirriff
