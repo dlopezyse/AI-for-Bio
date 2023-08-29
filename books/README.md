@@ -2,6 +2,7 @@
 
 - [**Molecular Biology of the Cell:** Bruce Alberts, Alexander Johnson, Julian Lewis, Martin Raff, Keith Roberts, and Peter Walter](https://www.ncbi.nlm.nih.gov/books/NBK21054/)
 - [**Biology: A Global Approach:** Campbell, Wasserman, Minorsky, Urry, Cain](https://www.amazon.de/-/en/Neil-Campbell/dp/1292341637/ref=d_pd_sbs_sccl_1_2/262-0866753-3307213?pd_rd_w=WjRh9&content-id=amzn1.sym.41628bd4-d899-4783-a506-d8de0d1214b9&pf_rd_p=41628bd4-d899-4783-a506-d8de0d1214b9&pf_rd_r=DE61JPM99PPAJ3Y6GKGB&pd_rd_wg=1w7KY&pd_rd_r=af5b9eaa-61a1-4e2b-ba4a-075386ca2578&pd_rd_i=1292341637&psc=1)
+- [**Fundamentals of Biochemistry: Life at the Molecular Level:** D. Voet, J. Voet , Pratt](https://www.amazon.de/Fundamentals-Biochemistry-Binder-Ready-Version/dp/1118918436)
 
 
 ### 💻 Bioinformatics
