@@ -43,3 +43,4 @@
 - [**Universität Tübingen:** Computer Vision](https://www.youtube.com/playlist?list=PL05umP7R6ij35L2MHGzis8AEHz7mg381_)
 - [**Columbia University:** First Principles of Computer Vision](https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw/videos)
 - [**University of Pennsylvania:** Graph Neural Networks](https://www.youtube.com/channel/UC_YPrqpiEqkeGOG1TCt0giQ/playlists)
+- [**Stanford:** CS324 - Large Language Models](https://stanford-cs324.github.io/winter2022/)
