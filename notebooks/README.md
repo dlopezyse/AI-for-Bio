@@ -14,3 +14,6 @@
 | [RFdiffusion for protein structure generation](https://colab.research.google.com/github/sokrypton/ColabDesign/blob/v1.1.1/rf/examples/diffusion.ipynb#scrollTo=tSgCPxIZ1T_A) | [Joseph Watson](https://github.com/joewatchwell), [Nathaniel Bennett](https://github.com/nrbennet), [David Juergens](https://github.com/davidcjuergens)
 | [Public notebooks hosted on Biology, Chemistry & Machine Learning](https://colab-db.github.io/) | Colab DB
 | [Protein & Interactomic Graph Library](https://github.com/a-r-j/graphein) | [Arian Jamasb](https://github.com/a-r-j)
+| [Visualize chemical structures](https://colab.research.google.com/github/vinayak2019/python_quantum_chemistry_introductory/blob/main/Input_structure_for_QC_calculations.ipynb) | Google Colab Curated Notebooks
+| [Predict protein structure](https://colab.research.google.com/github/deepmind/alphafold/blob/master/notebooks/AlphaFold.ipynb) | Google Colab Curated Notebooks
+
