@@ -20,4 +20,4 @@
 | [The Next Frontier For Large Language Models Is Biology](https://www.forbes.com/sites/robtoews/2023/07/16/the-next-frontier-for-large-language-models-is-biology/?sh=3f3c080c6f05&utm_source=substack&utm_medium=email) | Forbes
 | [We Need Better Benchmarks for Machine Learning in Drug Discovery](https://practicalcheminformatics.blogspot.com/2023/08/we-need-better-benchmarks-for-machine.html) | Pat Walters
 | [The Chemical Code: An Opportunity Bigger Than The Genetic Code](https://www.enveda.com/posts/the-chemical-code-opportunity) | Enveda Biosciences
-
+| [Latent optima](https://atelfo.github.io/2023/11/17/latent-optima.html?utm_source=substack&utm_medium=email) | Alex Telford
