@@ -10,6 +10,7 @@
 | [Doing More with Moore: Biotech’s Tech Moment](https://a16z.com/2023/02/14/doing-more-with-moore/?utm_source=substack&utm_medium=email) | Andreessen Horowitz |
 | [Drug discovery companies are customizing ChatGPT: here’s how](https://www.nature.com/articles/s41587-023-01788-7.pdf?pdf=button%20sticky) | Neil Savage |
 | [Generating ‘smarter’ biotechnology](https://www.nature.com/articles/s41587-023-01695-x) | Nature Biotechnology |
+| [How to represent a protein sequence](https://liambai.com/protein-representation/?s=03) | Liam Bai
 | [Latent optima](https://atelfo.github.io/2023/11/17/latent-optima.html?utm_source=substack&utm_medium=email) | Alex Telford
 | [MS2Mol: a transformer encoder-decoder model for exploring the dark chemical space of nature](https://www.enveda.com/posts/ms2mol-a-transformer-encoder-decoder-model-for-exploring-the-dark-chemical-space-of-nature) | David Healey
 | [Notes on end-to-end biology](https://nintil.com/biology-llms?utm_source=substack&utm_medium=email) | Nintil Blog |
