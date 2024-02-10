@@ -12,7 +12,8 @@
 - [**Rice University:** DNA - Biology’s Genetic Code](https://www.edx.org/course/dna-biologys-genetic-code)
 - [**23andME:** Introduction to Genetics for Beginners](https://www.udacity.com/course/tales-from-the-genome--bio110)
 - [**Johns Hopkins University:** Introduction to the Biology of Cancer](https://es.coursera.org/learn/cancer)
--  [**Innovative Genomics Institute:** Education](https://innovativegenomics.org/education/) 
+- [**Innovative Genomics Institute:** Education](https://innovativegenomics.org/education/)
+- [**HarvardX:** Cell Biology: Mitochondria](https://www.edx.org/es/learn/cellular-biology/harvard-university-cell-biology-mitochondria)
 
 ### 💻 Bioinformatics
 
