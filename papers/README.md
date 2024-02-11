@@ -8,3 +8,4 @@
 | [Sequences and consequences](https://royalsocietypublishing.org/doi/10.1098/rstb.2009.0221) | S. Brenner | 2010
 | [Modular Biological Complexity](https://www.science.org/doi/10.1126/science.1218616) | K. Koch | 2012
 | [Common pitfalls in preclinical cancer target validation](https://www.nature.com/articles/nrc.2017.32) | W. G. Kaelin | 2017
+| [Scientific Large Language Models: A Survey on Biological & Chemical Domains](https://arxiv.org/abs/2401.14656?s=03) | Zhang et al. | 2024
