@@ -1,7 +1,6 @@
 <HTML><h1 align="center">:robot: AI for Bio 🧬</h1> 
 
 <h3 align="center">A free and collaborative space for Machine Learning applied to Biology</h3>
-<br>
 <h5 align="center">"As Math is a descriptive language for Physics, Artificial Intelligence is the language for Biology" (Demis Hassabis, CEO of DeepMind)</h3>
 <br>
 </HTML>
