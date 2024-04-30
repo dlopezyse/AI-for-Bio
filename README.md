@@ -7,7 +7,7 @@
 
 This site is designed to produce and disseminate resources for Machine Learning applied to Biotech. You can find:
 - [Databases](databases) 📊
-- [Large Language Models in Biology](biollms) 🤖 (coming soon...)
+- [Large Language Models in Biology](biollms) 🤖
 - [Online courses](online-courses) 🎞️
 - [Books](books) 📚
 - [Notebooks](notebooks) in **Python** :snake:
