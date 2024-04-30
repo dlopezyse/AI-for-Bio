@@ -1,6 +1,4 @@
-## Browse notebooks:
-
-### :snake: Python
+## Notebooks in Python 🐍
 
 | Description  | Author |
 | :--- | :--- |
