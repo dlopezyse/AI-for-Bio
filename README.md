@@ -2,7 +2,8 @@
 
 <h3 align="center">A free and collaborative space for Machine Learning applied to Biology</h3>
 <br>
-<br> 
+<h5 align="center">"As Math is a descriptive language for Physics, Artificial Intelligence is the language for Biology" (Demis Hassabis, CEO of DeepMind)</h3>
+<br>
 </HTML>
 
 This site is designed to produce and disseminate resources for Machine Learning applied to Biotech. You can find:
@@ -18,7 +19,6 @@ This site is designed to produce and disseminate resources for Machine Learning 
 Find this site useful? :star: it!  
 Want to collaborate? Connect with us and become part of the community 😄
 
-*"As Math is a descriptive language for Physics, Artificial Intelligence is the language for Biology"* (Demis Hassabis, CEO of DeepMind)
 
    
 
