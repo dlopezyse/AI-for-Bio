@@ -9,6 +9,7 @@
 | [DeepChem Tutorial](https://github.com/deepchem/deepchem/tree/master/examples/tutorials) | [DeepChem](https://github.com/deepchem)
 | [Illustrating Python via Examples from Bioinformatics](http://hplgit.github.io/bioinf-py/doc/pub/html/index.html) | [Norwegian Centre of Excellence](http://cbc.simula.no/pub/)
 | [megaDNA: A long-context language model for the generation of bacteriophage genomes](https://colab.research.google.com/drive/1T7pDY-pL2aJk8mogUKhDu5DpG9r7bjv4?usp=sharing) | [Bin](https://github.com/lingxusb)
+| [Practical Cheminformatics](https://github.com/PatWalters/practical_cheminformatics_tutorials) | [Patrick Walters](https://github.com/PatWalters)
 | [Predicting molecule properties based on its SMILES](https://www.kaggle.com/code/rmonge/predicting-molecule-properties-based-on-its-smiles) | André Olivera
 | [Predict protein structure](https://colab.research.google.com/github/deepmind/alphafold/blob/master/notebooks/AlphaFold.ipynb) | [Google Colab Curated Notebooks](https://colab.google/notebooks/)
 | [Protein & Interactomic Graph Library](https://github.com/a-r-j/graphein) | [Arian Jamasb](https://github.com/a-r-j)
