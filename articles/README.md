@@ -3,6 +3,7 @@
 | Name | Author |
 | :--- | :--- |
 | [A call to arms to save the genome](https://www.librariesforthefuture.bio/p/a-call-to-arms-to-save-the-genome#%C2%A7introduction) | Alan Tomusiak
+| [A primer on why computational predictive toxicology is hard](https://www.owlposting.com/p/a-primer-on-why-computational-predictive) | Abhishaike Mahajan
 | [Biology is a Burrito](https://www.readcodon.com/p/burrito-biology?s=03) | Niko McCarty
 | [Cells are very fast and crowded places](https://www.righto.com/2011/07/cells-are-very-fast-and-crowded-places.html?m=1&s=03) | Ken Shirriff
 | [Concepts of health and disease as a barrier to progress](https://atelfo.github.io/2023/10/11/progress-and-concepts-of-health-and-disease.html?utm_source=substack&utm_medium=email) | Alex Telford
